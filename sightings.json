@@ -1,0 +1,125 @@
+[
+  {
+    "id": 1,
+    "image": "/images/1000.jpg",
+    "title": "Bigfoot",
+    "location": "Amazon forest",
+    "date": "30-7-2023",
+    "comments": [
+      "i saw big foot on my holiday last year",
+      "im so scared that this is real",
+      " I saw the same thing.",
+      " I saw the same thing.",
+      "i saw this yesterday",
+      "i believe this is true"
+    ]
+  },
+  {
+    "id": 2,
+    "image": "/images/1001.jpg",
+    "title": "Alien ship",
+    "location": "Manchester",
+    "date": "15-9-2024",
+    "comments": [
+      "this looks so fake",
+      "omg nobody is talking about this i saw this too!"
+    ]
+  },
+  {
+    "id": 3,
+    "image": "/images/1002.jpg",
+    "title": "lochness monster",
+    "location": "Scotland",
+    "date": "1-10-2024",
+    "comments": [
+      "everyone has seen this at this point",
+      "you have to be lying"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "among us potion",
+    "location": "facetime",
+    "date": "2025-01-31",
+    "image": "images/1738332685964-970600540.jpg",
+    "comments": [
+      "bro it was 3am"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "cat dog",
+    "location": "outside",
+    "date": "2025-01-31",
+    "image": "images/1738333712948-991300877.jpg",
+    "comments": [
+      "it was a cat and dog"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Dill pickle",
+    "location": "Inside",
+    "date": "2025-01-31",
+    "image": "images/resized_017a315f1d6d65b798313237001d9f42.jpeg",
+    "comments": [
+      "Wtffff"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Smelly burger",
+    "location": "Idek",
+    "date": "2025-01-15",
+    "image": "images/resized_d129edf679a759a608ba6fe3bae3649d.jpeg",
+    "comments": [
+      "Scary"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "car",
+    "location": "inside",
+    "date": "2025-02-03",
+    "image": "images/a72436048a31ecb4e93a0030fa1b1e7f.jpg",
+    "comments": [
+      "why is it so tuff"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Pigeon camera",
+    "location": "Town centre",
+    "date": "2024-02-04",
+    "image": "images/894b4e89164e985af1534b4b9a8667f1.jpg",
+    "comments": [
+      "The government is using fake pigeons as cameras",
+      "I saw the same thing.",
+      "Tester comment",
+      "Tester comment",
+      "Tester comment",
+      "Tester comment"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "tap water",
+    "location": "my house",
+    "date": "2025-02-04",
+    "image": "images/350195faa589c7ed2cf5ceeac3e86ca3.jpg",
+    "comments": [
+      "the water has little drones in it",
+      "i believe this"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "tap water",
+    "location": "inside",
+    "date": "2025-02-04",
+    "image": "images/b8f375c11d473cd79ca459ee780c6e5b.jpg",
+    "comments": [
+      "the water has little drones in it"
+    ]
+  }
+]
